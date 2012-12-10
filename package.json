@@ -1,0 +1,28 @@
+{
+    "name": "sherlock"
+  , "version": "0.0.0"
+  , "description": "Simple console based debugging for node.js and the browser."
+  , "author": "Jake Luer <jake@qualiancy.com> (http://qualiancy.com)"
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "repository": {
+        "type": "git"
+      , "url": "git@github.com:qualiancy/sherlock.git"
+    }
+  , "engines": {
+      "node": "*"
+    }
+  , "main": "./index"
+  , "scripts": {
+      "test": "make test"
+    }
+  , "dependencies": {
+    }
+  , "devDependencies": {
+        "chai": "*"
+      , "component": "*"
+      , "mocha": "*"
+      , "mocha-phantomjs": "*"
+    }
+}

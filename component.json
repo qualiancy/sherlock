@@ -1,0 +1,15 @@
+{
+    "name": "sherlock"
+  , "repo": "qualiancy/sherlock"
+  , "version": "0.0.0"
+  , "description": "Simple console based debugging for node.js and the browser."
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "main": "lib/sherlock.js"
+  , "scripts": [
+        "lib/sherlock.js"
+    ]
+  , "dependencies": {}
+  , "development": {}
+}
