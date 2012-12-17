@@ -6,9 +6,9 @@
   , "license": "MIT"
   , "keywords": [
     ]
-  , "main": "lib/sherlock.js"
+  , "main": "lib/browser.js"
   , "scripts": [
-        "lib/sherlock.js"
+        "lib/browser.js"
     ]
   , "dependencies": {}
   , "development": {}
