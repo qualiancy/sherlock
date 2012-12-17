@@ -14,9 +14,7 @@
       "node": "*"
     }
   , "main": "./index"
-  , "scripts": {
-      "test": "make test"
-    }
+  , "scripts": {}
   , "dependencies": {
     }
   , "devDependencies": {
